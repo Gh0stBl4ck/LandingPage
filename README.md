@@ -28,6 +28,7 @@ Este projeto consiste na criação de um site dinâmico para a exibição e gest
 
 ## 🔗 Deploy
 
+Link: https://gh0stbl4ck.github.io/LandingPage/
 
 
 ---
