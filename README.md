@@ -24,8 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto consiste na criação de um site dinâmico para a exibição e gestão de veículos, voltado para concessionárias, revendas de carros, ou qualquer empresa que deseje mostrar seu catálogo de veículos de forma profissional e acessível.
-
+Landing page para a Trilha de CSS da DIO, com um design atraente e funcional que comunica a essência do curso.
+Desenvolver um site que informe de forma clara e impactante sobre a trilha de aprendizado, incentivando mais pessoas a mergulharem no mundo do CSS.
 ## 🔗 Deploy
 
 Link: https://gh0stbl4ck.github.io/LandingPage/
