@@ -12,7 +12,7 @@ Landing Page da Trilha de CSS da DIO </p>
 <br>
 
 <p align="center">
-  <img alt="Trilha" src="CssDevelop.png" width="100%">
+  <img alt="Trilha" src="CssDevelop.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
